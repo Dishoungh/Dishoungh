@@ -2,7 +2,7 @@
 - 👀 I’m interested in electronics, embedded systems, CPU emulation, and computer architecture
 - 🌱 I’m currently learning embedded C programming (RTOS), how to make circuits on breadboards, assembly programming, and many other things
 - 💞️ I’m looking to collaborate on a digital logic simulator or software CPU emulator
-- 📫 How to reach me: dishounghii@ymail.com
+- 📫 How to reach me: dishounghwhiteii@gmail.com
 
 <!---
 Dishoungh/Dishoungh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
